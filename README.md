@@ -1,6 +1,4 @@
-<h1 align="center"> Opinion Polarity Detection</h2>
 
-<!--![imdb header](/assets/imdb_header.png)-->
 
 
 
@@ -9,6 +7,9 @@
 
 
 
+<h1 align="center"> Opinion Polarity Detection</h2>
+
+<!--![imdb header](/assets/imdb_header.png)-->
 
 
 
@@ -27,7 +28,15 @@
 
 
 
-<h2 align="center">Workflow</h2>
+
+
+
+
+
+
+
+<h2>Workflow</h2>
+<!-- <h2 align="center">Workflow</h2> -->
 
 - <h4><a href="/src/data_loader.py">Data Loading</a></h4>
     <div>
