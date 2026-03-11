@@ -1,4 +1,4 @@
-
+<h1 align="center"> Opinion Polarity Detection</h2>
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center"> Opinion Polarity Detection</h2>
+
 
 <!--![imdb header](/assets/imdb_header.png)-->
 
