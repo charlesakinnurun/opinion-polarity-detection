@@ -2,9 +2,11 @@
 
 
 
-![header image](/assets/header_image.png)
+<!-- ![header image](/assets/header_image.png)-->
 
 <!-- ![](/assets/imdb.png) -->
+
+![](assets\IMDb_id7sd00bOY_1.png)
 
 
 
