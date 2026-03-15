@@ -10,7 +10,7 @@
 
 <!-- ![header](/assets/front_header.webp) -->
 
-![header](/assets/image%20(6).webp)
+![header](/assets/front_cover.webp)
 
 <h1 align="center"> Opinion Polarity Detection</h2>
 
