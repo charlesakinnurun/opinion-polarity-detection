@@ -6,9 +6,9 @@
 
 <!-- ![](/assets/imdb.png) -->
 
-![header](assets\IMDb_id7sd00bOY_1.png)
+<!-- ![header](assets\IMDb_id7sd00bOY_1.png)-->
 
-
+![header](/assets/front_header.webp)
 
 <h1 align="center"> Opinion Polarity Detection</h2>
 
